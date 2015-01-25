@@ -1,0 +1,10 @@
+#Introduction
+This repo contains the following files
+* run_analysis.R - includes the R code for the project
+* CodeBook.md - includes information about the data, transformation performed, R code, and variables included in the final dataset
+* final_data.txt - this is the final tidy dataset for the project
+
+#How to run the R program
+* Unzip the raw data to the following directory C:/Projects/coursera/GettingandCleaningData/project/UCI HAR Dataset
+* Open R studio. I used R studio version 0.98.1062
+* Run the script run_analysis.R
